@@ -3,3 +3,4 @@
 3. learning git
 4. its difficult at start
 5. trying to understand
+6 this is a new training
